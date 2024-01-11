@@ -1,4 +1,4 @@
-#include "gfx.h"
+#include "gfx-1.h"
 
 /** modify the pixels of `data` to form a checkerboard */
 void checkerboard(struct Image img, const int n) {

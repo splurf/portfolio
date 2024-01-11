@@ -1,5 +1,5 @@
+#include "img-1.h"
 #include <stdio.h>
-#include "img.h"
 
 int main(int argc, char **argv) {
     int w, h; // based on the initial argument

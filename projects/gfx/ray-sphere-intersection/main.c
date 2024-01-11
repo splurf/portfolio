@@ -1,4 +1,4 @@
-#include "gfx.h"
+#include "gfx-2.h"
 
 
 /** modify the pixels of `data` to form a sphere */

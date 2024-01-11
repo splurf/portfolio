@@ -1,4 +1,4 @@
-#include "gfx.h"
+#include "gfx-3.h"
 
 void render_pixel(const struct Ray ray, struct Vec3 *color, const int n, const int i) {
     struct RayHit rh; // hit position and direction of normal

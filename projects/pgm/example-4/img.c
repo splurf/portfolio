@@ -1,4 +1,4 @@
-#include "img.h"
+#include "img-2.h"
 #include "netpbm/pgm.h"
 
 #include <ctype.h>
